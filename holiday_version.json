@@ -1,8 +1,8 @@
 {
-  "latestYear": 2027,
-  "latestVersion": "2027.1",
+  "latestYear": 2026,
+  "latestVersion": "2026.3",
   "updatedAt": "2026-06-03",
   "years": {
-    "2027": "holiday_2027.json"
+    "2026": "holiday_2026.json"
   }
 }
